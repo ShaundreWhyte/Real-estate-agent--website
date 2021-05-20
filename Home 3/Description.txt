@@ -1,0 +1,39 @@
+Description
+Just steps away from QM2 express bus to Manhattan and local buses; only minutes from the LIRR. Walking distance to the Bay Terrace Shopping Center,
+Baybridge Commons Shopping Center, pool clubs, movie theaters and tennis courts. 
+1.5 blocks away from elementary school PS 169 and Bell Academy middle school in the award-winning District 25. 
+Don’t miss this opportunity!
+
+
+
+Address
+Address: City Center
+City: New York
+Area: Manhattan
+State/County: New York State
+Zip: 1234
+Country: United States
+
+
+
+
+Details
+Property Id : 23276
+Price: $ 450 / month
+Property Size: 120,00 ft2
+Property Lot Size: 200,00 ft2
+Rooms: 1
+Bedrooms: 2
+Bathrooms: 3
+Custom ID: 123 ABC
+Garages: automatic gates
+Year Built: 1920
+Garage Size: 3 cars
+Available From: 2017-12-15
+Basement: full basement
+Extra Details: barbeque
+Roofing: new
+Exterior Material: bricks
+Structure Type: Brick
+Floors No: 2
+

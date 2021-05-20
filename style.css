@@ -1,0 +1,56 @@
+﻿*{
+	margin: 0;
+	padding: 0;
+	font-family: century Gothic;
+}
+ul{
+	background: float:right;
+	list-style-type: none;
+	margin-top: 25px;
+	background-image: url('dream house 1.jpg');
+}
+
+ul li{
+display:inline-block
+}
+ul li a{
+	text-decoration: none;
+	color:black;
+	padding: 5px 20px;
+}
+a:hover{
+	background: #FFFFFF;
+	color: #000000;
+	
+}
+ol {
+	float: left;
+	list-style-type: none;
+	margin-top: 25px;
+}
+ol li b{
+	text-decoration:none;
+	color:black;
+	padding: 5px 20px;
+}
+ol li{
+	display: inline-block;
+	color: #FFFFFF;
+	font-style: italic;
+	text-decoration: underline;
+}
+b:hover{
+	background:#FFFFFF;
+	color: #000000;
+}
+ol li{
+	border: thin solid #000000;
+	display: inline-block;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+}
+h1 {
+	background-image: none;
+	color: #EFCF56;
+	font-family: georgia, "Times New Roman", Times, serif;
+}

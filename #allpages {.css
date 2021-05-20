@@ -1,0 +1,23 @@
+
+h1 {
+	background-color: #000000;
+
+}.allpages {
+	border: thin solid #000000;
+	width: 980px;
+	height: auto;
+	bottom: auto;
+}
+h2 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #FFCB5B;
+}
+p {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #FECD5C;
+	font-size: x-large;
+}
+body {
+	background-color: #FFFFFF;
+	background-image: url('trilliumgradient.png');
+}

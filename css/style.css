@@ -1,0 +1,34 @@
+h1 {
+	background-color:inherit;
+
+}
+
+header{
+    color:inherit;
+
+}
+body {
+	background-image:inherit;
+	background-image:url(https://c4.wallpaperflare.com/wallpaper/431/57/206/geometry-geometric-web-dark-wallpaper-preview.jpg);
+	color: white;
+}
+
+
+#allPages {
+	width: 960px;
+	height: auto;
+	bottom: auto;
+}
+
+
+
+h2 {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #FFCB5B;
+}
+p {
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	color: #FECD5C;
+	font-size: x-large;
+}
+

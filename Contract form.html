@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Contact Form</title>
+<meta charset="uft-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link  rel="stylesheet" href ="css/style.css">
+<link href="style2.css" rel="stylesheet" type="text/css" />
+</head>
+<header>
+<body>
+<div id="allPage">
+	<h1 id="allpages">
+	<img alt="Golderbanner" src="Golden%20logo.jpg" src="images/CC50thAnniversary.jpg" width="200"/></h1>
+	<p>Gold 34 - Contact Form</p>
+</header>
+<form action="mailto:jdoe37@gmail.com" method="post">
+<fieldset>
+<legend>Personal Info:</legend>
+	<label for="txtFirstName">First Name:</label> 
+	<input id="txtFirstName" name="txtFirstName" size="25" tabindex="1" type="text" required="required"></input><br></br>
+	<label for="txtLastName">Last Name:</label> 
+	<input id="txtLastName" name="txtLastName" size="25" tabindex="3" type="text" required="required"/><br />
+<br>
+	<label for="txtEmail">Email:</label>
+	<input id="txtEmail" name="txtEmail" size="30" tabindex="5" type="email" placeholder="yourAccount@gmail.com" required="required"><br />
+<br> 
+</input>
+Phone:<input name="txtphone" size="30" tabindex="7" type="text" /><br />
+</fieldset>
+<fieldset>
+<legend>Property info:</legend>	
+
+Type of Property:<select name="lstProperty">
+<option>House</option>
+<option>condominium</option>
+</select><br />
+<br />
+Select number of bedroom:<select name="Bedroom">
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+</select><br />
+<br />
+Select number of bathroom<select name="lstBathroom">
+<option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+</select><br />
+<br />
+<br />
+Price range:<select name="lstPropertyrange" tabindex="13">
+<option>$ 2,000 / year</option>
+<option>$5,000/ year</option>
+<option>$ 3,000/ year</option>
+<option>$ 7,000/ year</option>
+</select><br />
+<br />
+Comments:<textarea id="txtSpecialReq" cols="50" name="txtSpecialReq" rows="7" tabindex="37">---Please let us know about special needs we can help you with---</textarea>	
+
+<br />
+
+<br />
+	<label>
+	<input name="btnSubmit" tabindex="39" type="submit" value="Complete Contact Form"></label>	
+
+</body>
+
+</html>
+
