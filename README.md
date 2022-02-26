@@ -1,6 +1,7 @@
 
 # Real-estate-agent--website
-Website created using JavaScript, HTML, CSS, bootstrap which displayed images of properties description information and contact form.
+# Screenshot
 
-![image](https://user-images.githubusercontent.com/46546858/148610201-55bafc7e-0312-46b9-b1b2-d09c4316f74b.png)
+
+![realestate](https://user-images.githubusercontent.com/46546858/155825030-92610b76-bf28-4407-a34a-d6497f42e952.PNG)
 
